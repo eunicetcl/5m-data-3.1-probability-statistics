@@ -11,6 +11,7 @@ Complete the following exercises using Python.
    - Calculate the expected value (mean) of your distribution
    - Compare your empirical results with the theoretical probability for each outcome
 
+
 2. **Normal Distribution and Statistical Testing**
 
    - Generate two samples from normal distributions:
